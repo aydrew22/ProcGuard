@@ -132,7 +132,7 @@ installer; Linux: `sudo apt install python3-tk`; Homebrew: `brew install python-
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
-pip install -r requirements.txt    # just psutil
+pip install -r requirements-ai.txt    # just psutil
 python -m procguard
 ```
 
