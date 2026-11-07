@@ -1,0 +1,4 @@
+-r requirements.txt
+
+# Optional Gemini security and Junk finder reviews
+google-genai>=1.0
