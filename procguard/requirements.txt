@@ -1,5 +1,0 @@
-psutil>=5.9
-
-# Optional extras
-# google-genai>=1.0     # AI second opinion / auto-review (needs GEMINI_API_KEY)
-# plyer>=2.1            # native desktop notifications on Windows
