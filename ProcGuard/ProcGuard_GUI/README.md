@@ -4,7 +4,7 @@ A cross-platform (macOS / Windows / Linux) process monitor in the spirit of Task
 Activity Monitor, but every process is sorted into **High / Medium / Low risk**, and every
 flag comes with a plain-English explanation of *why* and *what the process is probably doing*.
 
-## Updated interface
+## Interface
 
 The GUI uses a navy and teal theme with your ProcGuard icon, clickable process and
 risk summary cards, and a resizable side-by-side process list and inspector.
